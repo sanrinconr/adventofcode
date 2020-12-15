@@ -1,0 +1,7 @@
+32
+
+
+47
+
+F= quitar el decimal sin mas
+B = redondear arriba
